@@ -37,13 +37,13 @@ nav {
   padding: 30px 20px 0px 0px;
 }
 
-.content h1 {
+h1 {
   font-size: 1.8em;
   font-weight: bold;
   line-height: normal;
 }
 
-.content h3 {
+h3 {
   font-size: 1.4em;
   line-height: normal;
 }
